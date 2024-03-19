@@ -1,0 +1,2 @@
+# RANSOM
+Ransomware com Python.
